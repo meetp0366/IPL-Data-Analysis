@@ -1,9 +1,6 @@
 # 🏏 IPL Data Analysis Dashboard & Match Predictor
 
-## 🔗 Live Repository
-
-https://github.com/meetp0366/IPL-Data-Analysis
-
+🚀 **Live Demo:** [Open IPL Data Analysis Dashboard](https://ipl-data-analysis-gxwsnrw5f7tyuommk6d5ic.streamlit.app/)
 ---
 
 ## 📌 Overview
